@@ -75,3 +75,21 @@ section {
     display: flexbox;
     object-fit: contain;
 }
+
+.six_screen {
+    text-align: center;
+}
+
+.seventh_screen {
+    padding-top: 120px;
+    background: #ABC5FE;
+    height: 1024px;
+    justify-content: space-between;
+    display: flexbox;
+    object-fit: contain;
+}
+
+.six_screen {
+    height: 1024px;
+}
+
